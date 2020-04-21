@@ -29,7 +29,6 @@ class CustomerInfo extends React.Component {
                 <p>{this.props.birthday}</p>
                 <p>{this.props.gender}</p>
                 <p>{this.props.job}</p>
-                
             </div>
         )
     }
